@@ -7,7 +7,7 @@
 代码遵循MIT协议，请修改后自部署到云服务器使用，支持vercel一键部署
 
 
-[![Deploy to Vercel](https://vercel.com/button)](https://vercel.com/import/project?template=https://github.com/rcy1314/jsd.cdn/)
+[![Deploy to Vercel](https://vercel.com/button)](https://vercel.com/import/project?template=https://github.com/xiaojiang233/jsd.cdn-backup)
 
 ⚠️ 如果vercel流量不够请使用云服务器部署，配置文件在下方
 
